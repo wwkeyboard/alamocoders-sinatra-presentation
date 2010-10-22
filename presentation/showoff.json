@@ -1,0 +1,13 @@
+{ 
+    "name": "Simple Sinatra Scripts",
+    "sections": [ 
+        {"section":"intro"},
+        {"section":"sinatra_overview"},
+        {"section":"wrapping_scripts"},
+        {"section":"examples"},
+        {"section":"concerns"},
+				{"section":"mixing"},
+				{"section":"future"},
+				{"section":"thanks"}
+    ]
+}
